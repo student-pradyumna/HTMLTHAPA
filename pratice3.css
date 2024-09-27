@@ -1,0 +1,24 @@
+ .trafficlight{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    background-color: red;
+    border-style:solid ;
+    border-color:red;
+ }
+ .signal{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    background-color:yellow;
+    border-style:solid ;
+    border-color:yellow;
+ }
+ .last{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    background-color:green;
+    border-style:solid ;
+    border-color:green ;
+ }
